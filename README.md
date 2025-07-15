@@ -1,4 +1,4 @@
-[![dstremur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstremur)](https://github.com/anuraghazra/github-readme-stats)
+[![dstremur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstremur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
